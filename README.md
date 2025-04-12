@@ -18,6 +18,7 @@ To write a program to predict the type of species of the Iris flower using the S
 5.Generate Confusion Matrix
 
 ## Program:
+```
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: P KEVIN
 RegisterNumber:  212224040159
@@ -56,7 +57,7 @@ cm = confusion_matrix(y_test, y_pred)
 print("Confusion Matrix:")
 print(cm)
 
-
+```
 
 
 
